@@ -1,6 +1,6 @@
 .App {
-  width: 100vw;
-  height: 50vh;
+  /* width: 100vw;
+  height: 50vh; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,12 +9,12 @@
 body {
   padding: 0;
   margin: 0;
-  margin-top: 20%;
+  margin-top: 5%;
 }
 
 .board {
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   background-color:burlywood;
   border: 1px solid black;
   display: flex;
